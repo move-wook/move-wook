@@ -10,7 +10,8 @@ I'm Donguk Lim, a junior full-stack developer. <br>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=%234FC08D"/>&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Css3-1572b6.svg?&style=flat-square&logo=Css3&logoColor=white"/>&nbsp;&nbsp; 
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&color=e0e0e0&height=300&section=footer&fontSize=90)
