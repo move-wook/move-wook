@@ -8,7 +8,6 @@ I'm Donguk Lim, a junior full-stack developer. <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;<br>
 <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
