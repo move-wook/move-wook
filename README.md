@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lim%dong%20uk&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lim%20dong%20uk&fontSize=80)
 
 <h3 align="left"> 🙌 About me,</h3>
 <p align="left">
