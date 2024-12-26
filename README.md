@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lim%20dong%20uk&fontSize=80)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/DK2554?pet-id=1" width="1000" height="120"/>
+</a>
+
+
 
 <h3 align="left"> 🙌 About me,</h3>
 <p align="left">
