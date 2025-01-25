@@ -11,7 +11,7 @@
 - Java를 핵심으로 활용한 Back-end 개발에 관심이 있는 주니어 개발자입니다. <br>    
 </p>
 
-<a href="https://github.com/move-wook"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=DK2554&theme=dark&count_private=true&show_icons=true" alt="donguk's github stats"/></a>  
+<a href="https://github.com/move-wook"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=move-wook&theme=dark&count_private=true&show_icons=true" alt="donguk's github stats"/></a>  
 
 ### 🛠 Languages and Tools
 <p align="left">
