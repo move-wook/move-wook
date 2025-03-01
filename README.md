@@ -1,3 +1,4 @@
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/move-wook"/>
 </a>
@@ -22,3 +23,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-1572b8.svg?&style=flat-square&logo=react&logoColor=white"/>&nbsp;&nbsp; 
 </p>
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
