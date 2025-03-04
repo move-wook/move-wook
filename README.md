@@ -27,5 +27,5 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
-
-<img src="https://private-user-images.githubusercontent.com/52989474/418253386-c0e8e8df-d29c-4c00-a474-ea1f29916f40.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4MTE3NTMsIm5iZiI6MTc0MDgxMTQ1MywicGF0aCI6Ii81Mjk4OTQ3NC80MTgyNTMzODYtYzBlOGU4ZGYtZDI5Yy00YzAwLWE0NzQtZWExZjI5OTE2ZjQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzAxVDA2NDQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkZmZmYjg3ZWRmYWU5NWFhZGRkN2FiMmRhZmZlMDQxOTE5M2E3MDZlNTAyOThkYTMzYTcwMGFjYTRlMzY2MjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9A0cTLEbiIsypR45l3UORXs3z0CbC6Pw1slKH03Vmcg" width="400" height="400" />
+<br>
+<img src="https://github.com/user-attachments/assets/c0e8e8df-d29c-4c00-a474-ea1f29916f40" width="350" height="500" />
