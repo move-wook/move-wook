@@ -28,4 +28,3 @@
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 <br>
-<img src="https://github.com/user-attachments/assets/c0e8e8df-d29c-4c00-a474-ea1f29916f40" width="350" height="500" />
